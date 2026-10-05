@@ -1,7 +1,7 @@
-# GdScO₃:Eu³⁺ Photoluminescence Analysis
+# GdScO₃ Photoluminescence Analysis (trace Eu³⁺)
 
 Interactive and scripted analysis of excitation-dependent photoluminescence (PL) 
-in Eu³⁺-doped GdScO₃ single crystals, comparing two crystal samples 
+in nominally undoped GdScO₃ single crystals that contain trace (1–2 ppm) Eu³⁺, comparing two crystal samples 
 (Crystal A — Amazon, Crystal B — Bharat).
 
 ## Contents
@@ -18,10 +18,8 @@ No installation needed — runs directly in your browser.
 
 ## Science
 
-GdScO₃:Eu³⁺ exhibits two mechanistically independent excitation pathways:
-
-- **Host-band excitation (233–253 nm)** → dominant ⁵D₂ emission at ~491 nm
-- **Gd³⁺-mediated excitation (264–270 nm)** → ⁵D₀ emission at ~612 nm
+Tuning the excitation from 250 to 263 nm lowers the 491/612 nm emission line ratio from 1.03 to 0.13 in Crystal A.
+No Eu³⁺ emission is detected for excitation from 276 to 288 nm, the range that covers the Gd³⁺ ⁸S₇/₂ → ⁶I_J absorption lines.
 
 Crystal A (Amazon) and Crystal B (Bharat) are compared across the full 
 excitation-emission landscape to probe site symmetry, energy transfer 
@@ -52,5 +50,5 @@ Line positions are saved between sessions.
 ## Author
 
 Shadi Mirmohammadi  
-PhD Candidate, Electrical & Computer Engineering, University of Utah  
+Ph.D. student, Electrical & Computer Engineering, University of Utah  
 Sensale-Rodriguez Lab
