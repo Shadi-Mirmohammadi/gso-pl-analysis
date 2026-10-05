@@ -13,7 +13,7 @@ in nominally undoped GdScO₃ single crystals that contain trace (1–2 ppm) Eu�
 
 ## Live Interactive Plot
 
-👉 [Open Interactive PL Viewer](https://shadi-mirmohammadi.github.io/gso-pl-analysis/Amazon%20vs%20Bharat_PL.html)
+[Open the interactive PL viewer](https://shadi-mirmohammadi.github.io/gso-pl-analysis/Amazon%20vs%20Bharat_PL.html)
 No installation needed — runs directly in your browser.
 
 ## Science
