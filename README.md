@@ -9,11 +9,11 @@ in Eu³⁺-doped GdScO₃ single crystals, comparing two crystal samples
 | File | Description |
 |---|---|
 | `Amazon vs Bharat_PL.html` | Interactive Plotly visualization — open in any browser |
-| `pl_analysis.py` | Python script for stacked PL plots with draggable excitation/emission lines |
+| `Amazon vs Bharat_PL.py` | Python script for stacked PL plots with draggable excitation/emission lines |
 
 ## Live Interactive Plot
 
-👉 [Open Interactive PL Viewer](https://shadimirmohammadi-collab.github.io/gso-pl-analysis/Amazon%20vs%20Bharat_PL.html)
+👉 [Open Interactive PL Viewer](https://shadi-mirmohammadi.github.io/gso-pl-analysis/Amazon%20vs%20Bharat_PL.html)
 No installation needed — runs directly in your browser.
 
 ## Science
@@ -37,12 +37,12 @@ pip install pandas matplotlib numpy openpyxl
 
 ### Usage
 
-Place `pl_analysis.py` in the same folder as your `.xlsx` data files 
+Place `Amazon vs Bharat_PL.py` in the same folder as your `.xlsx` data files 
 (dark spectrum, transmission spectrum, and individual PL files named by 
 excitation wavelength, e.g. `254 nm.xlsx`), then run:
 
 ```bash
-python pl_analysis.py
+python "Amazon vs Bharat_PL.py"
 ```
 
 Drag the red dashed line on the transmission panel to select an excitation 
